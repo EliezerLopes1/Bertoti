@@ -20,7 +20,7 @@ Por exemplo, o símbolo de uma lixeira representa a ação de excluir algo, o de
 
 No sistema é importante que o usuário tenha liberdade para realizar ações que ele deseja, porém muitas vezes essas ações são realizadas por engano, nessas situações deve haver uma “saída de emergência” de fácil localização, permitindo que o usuário saia daquela janela indesejada ou retorne ao ponto anterior.
 
-![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/d0545283-61b5-4675-90ff-d30f0aed4b7e)
+![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/d67f553e-42f5-4965-8af5-f7ed91f616f4)
 
 O Gmail, por exemplo, permite que o usuário desfaça a ação de excluir um e-mail, portanto a caixa com a opção “desfazer” permite que o usuário se recupere, dando a ele controle sobre a situação, caso ela tenha sido realizada por engano.
 
