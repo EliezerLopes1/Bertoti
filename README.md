@@ -4,7 +4,7 @@
 
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
-![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/e09ede79-88f2-4278-b6e7-8f4bcc06f01f)
+![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/c6784085-8959-4623-bd39-655d35cbbf57)
 
 Quando estudamos um curso on-line, somos informados de tudo que ocorre na tela, como a barra do player que mostra o quanto do vídeo já foi carregado, em qual parte o vídeo está, o tempo de duração dele, o quanto já foi assistido, do lado direito fica claro qual vídeo está sendo reproduzido, quais já foram assistidos e quais os próximos.
 
