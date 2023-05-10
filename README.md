@@ -1,4 +1,4 @@
-<h1>Heurísticas de Jakob Nielsen</h1>
+<h1>Avaliação Heuristica GUI</h1>
 
 <h1>1 - Visibilidade do status estamos no sistema</h1>
 
