@@ -68,7 +68,7 @@ O site da Apple é um bom exemplo de estética e design minimalista, ele é bem 
 
 Caso dê algo de errado, é importante mostrar ao usuário qual foi o erro e como se recuperar dele, para isso, as mensagens de erro devem ser claras e objetivas, em linguagem simples e próximas da ação que causou o erro.
 
-![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/d3c27122-f7e5-4470-a5c5-bf6af039cb95)
+![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/76d2d659-4fe0-4a11-8531-5c261c58c657)
 
 Por exemplo, o formulário de criação de conta do Amazon mostra quando um dado está preenchido incorretamente, no momento de preencher os dados a plataforma orienta onde está o erro, próximo do campo em que ele ocorreu e os passos para corrigi-lo.
 
