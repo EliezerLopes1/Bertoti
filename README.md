@@ -60,7 +60,7 @@ Os atalhos de teclado do Word, por exemplo, permitem essa interação mais rápi
 
 Quanto maior a quantidade de informações, mais tempo o usuário vai levar para analisá-las e poder tomar uma decisão, aumentando assim as chances dele abandonar a aplicação/site por achar confuso demais.Portanto o design da interface deve ser minimalista e o conteúdo o mais direto possível, informações que forem secundárias podem ser deixadas em segundo plano, como menus e abas.
 
-![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/c559ab65-a032-46c9-a698-e7dabe0cd0e5)
+![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/864cafcd-4d33-4d38-8f70-8beac8d9cac0)
 
 O site da Apple é um bom exemplo de estética e design minimalista, ele é bem simples e objetivo, mostrando o nome do produto, uma linha o descrevendo e a foto dele grande e destacada com cores contrastantes, além disso o site valoriza o espaço em branco, os elementos são bem organizados e a tipografia usada é simples e limpa.
 
