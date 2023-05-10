@@ -12,7 +12,7 @@ Quando estudamos um curso on-line, somos informados de tudo que ocorre na tela, 
 
 O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, portanto utilizar palavras, frases, imagens e conceitos que sejam familiares ao usuário. Também é recomendável a utilização de ícones que representem uma ação para realizar essa correspondência.
 
-![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/ed280885-5a6c-48f3-8dca-10155e7e7b07)
+![image](https://github.com/EliezerLopes1/Bertoti/assets/102488914/95a2d2d5-4e6c-4f1a-9a17-a3585cfe847d)
 
 Por exemplo, o símbolo de uma lixeira representa a ação de excluir algo, o de lupa a de buscar, representando assim ações que tenham uma conexão com o mundo real.
 
